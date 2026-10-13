@@ -1,4 +1,4 @@
-# Hotel Booking Insights & Analysis (Data Science SAT-2)
+# Hotel Booking Insights
 
 An end-to-end exploratory data analysis (EDA) and interactive dashboard exploring hotel booking patterns, cancellation trends, customer demographics, and revenue factors.
 
