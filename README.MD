@@ -14,12 +14,3 @@ This project investigates hotel reservation datasets to uncover key business dri
 
 ![Hotel Booking Insights Dashboard](Hotel_Booking_Insights_Dashboard.png)
 
----
-
-## 📁 Repository Structure
-
-```text
-├── DS_SAT_2.ipynb                      # Google Colab / Jupyter notebook containing data cleaning, EDA, and statistical analysis
-├── Hotel_Booking_Analysis.xlsx         # Processed dataset with charts, pivot tables, and visualization models
-├── Hotel_Booking_Insights_Dashboard.png # Exported high-level visual dashboard
-└── README.md                           # Project documentation
